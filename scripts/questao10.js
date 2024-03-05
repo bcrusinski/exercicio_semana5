@@ -4,6 +4,8 @@ class Funcionario {
         this.idade = idade;
         this.salarioBase = salarioBase;
     }
+    calcularSalario(){
+    }
 }
 
 class Professor extends Funcionario {
